@@ -1,0 +1,3 @@
+C:\Users\Rafael Coelho\Desktop\12 new\FeqozDev_Launcher\obj\Debug\FeqozDev_Launcher.csproj.AssemblyReference.cache
+C:\Users\Rafael Coelho\Desktop\12 new\FeqozDev_Launcher\obj\Debug\FeqozDev_Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael Coelho\Desktop\12 new\FeqozDev_Launcher\obj\Debug\FeqozDev_Launcher.csproj.CoreCompileInputs.cache
